@@ -2,10 +2,11 @@ h1{
     margin: 40px;
 }
 
-p{
+.paragrafo{
     margin: 40px;
     padding: 20px;
 }
+
 .paragrafo-normal{
     background-color: #f5f5f5;
 }
